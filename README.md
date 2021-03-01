@@ -1,0 +1,2 @@
+# Analysis-and-prediction-of-Close-price-of-the-stocks-in-the-Dow-Jones-Industrial-Index
+Performed Exploratory Data Analysis to analyze the performance of the 30 stocks traded in the Dow Jones Industrial Index (^DJI). Applied machine learning algortihms such as linear regression, ARIMA, Gradient Boost and Random Forest to predict the close price. Created 20 and 50 day EMA (Exponential Moving Average) plots to generate buy and sell signals. Have primarily used PySpark and PySpark's MLlib.  library
